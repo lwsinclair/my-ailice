@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ismailhamido-my-ailice-badge.png)](https://mseep.ai/app/ismailhamido-my-ailice)
+
 
 <div align= "center">
     <img src="./ailice/ui/static/AIliceLogo.png" height=256>
